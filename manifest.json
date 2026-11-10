@@ -1,6 +1,6 @@
 {
- "name": "Gondal Rate List",
- "short_name": "Gondal Rates",
+ "name": "Gondal Card",
+ "short_name": "Gondal Card",
  "start_url": ".",
  "scope": ".",
  "display": "standalone",
